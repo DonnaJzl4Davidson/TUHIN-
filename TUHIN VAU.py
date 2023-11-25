@@ -130,7 +130,10 @@ for ua in range(5000):
 	ugen.append(alhaj)
 os.system("xdg-open https://www.facebook.com/TUHIN.TOR.VAI.INNOCENT.BOY.12?mibextid=ZbWKwL")
 # LOGO
-logo = (________  __    __  __    __  ______  __    __ 
+logo = (
+
+
+________  __    __  __    __  ______  __    __ 
 |        \|  \  |  \|  \  |  \|      \|  \  |  \
  \$$$$$$$$| $$  | $$| $$  | $$ \$$$$$$| $$\ | $$
    | $$   | $$  | $$| $$__| $$  | $$  | $$$\| $$
